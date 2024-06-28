@@ -1,0 +1,2 @@
+> [!NOTE] 
+> Many people believe that the “eJPT” certificate has no weight compared to the “OSCP” certificate in the labor market, but before choosing which one you will learn, please study the difference between each one, but in the end I recommend to you what I learned, which is the “OSCP” certificate.

@@ -1,0 +1,3 @@
+## Advanced Evasion Techniques and Breaching Defenses (OSEP)
+> [!NOTE] 
+> At the moment there is no content, but in the coming period we will seek the help of someone with experience in this field to create a path here
